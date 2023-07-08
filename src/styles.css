@@ -1,0 +1,51 @@
+h1,h2{
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    padding-top: 5px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.section1{
+    left: 30px;
+}
+.info{
+    font-size: 12px;
+    padding-left: 50px;
+    padding-bottom: 2px;
+}
+.todayTemp{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+.day{
+    text-align: center;
+}
+
+#degree-c{
+    border: none;
+    background-color: white;
+    display: inline;
+    margin-left: 70px;
+    font-size: 30px;
+}
+
+#degree-f{
+    border: none;
+    background-color: white;
+    display: inline;
+    font-size: 20px;
+    color: grey;
+}
+#location-button:hover, #search-button:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
