@@ -49,3 +49,7 @@ img{
     cursor: pointer;
     background-color: aqua;
 }
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
